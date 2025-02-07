@@ -1,6 +1,6 @@
 import { CheckCircle } from "lucide-react"
 
-const topics = ["HTML & CSS", "JavaScript", "Node.js", "React", "Next.js"]
+const topics = ["HTML & CSS", "JavaScript", "Node.js", "React.js", "Next.js"]
 
 export default function Features() {
   return (
